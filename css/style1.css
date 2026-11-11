@@ -12,7 +12,7 @@ body {
     background-color: darkcyan;
     border: 10px solid black;
     border-radius: 50px;
-    color: red;
+    color: black;
     font-style: italic;
 
     width: 300px;
@@ -24,7 +24,7 @@ body {
 
 u {
 
-    color: darkblue;
+    color: black;
 }
 
 nav {
@@ -46,7 +46,7 @@ img {
 
 p {
     background-color: white;
-    color: green;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
     border: 10px solid black;
     border-radius: 50px;
@@ -58,7 +58,7 @@ h2 {
     text-align: center;
     border: 10px solid black;
     border-radius: 50px;
-    color: darkblue;
+    color: black;
 
 }
 
@@ -68,7 +68,7 @@ footer {
     text-align: center;
     border: 10px solid black;
     border-radius: 50px;
-    color: darkblue;
+    color: black;
 
 }
 /*
