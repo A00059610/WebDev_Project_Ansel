@@ -36,6 +36,16 @@ nav {
     border-radius: 50px;
 }
 
+nav:hover {
+  	color: green;
+    background-color: green;
+}
+
+p:hover {
+    background-color: red;
+    color: green;
+}
+
 img {
     border: 10px solid black;
     border-radius: 50px;
@@ -43,6 +53,8 @@ img {
     margin: auto;
     width: 50%;
 }
+
+
 
 p {
     background-color: white;
