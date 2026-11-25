@@ -22,6 +22,8 @@ body {
     border: 2px solid black;
 }
 
+
+
 u {
 
     color: black;
@@ -34,16 +36,19 @@ nav {
     background-color: white;
     border: 10px solid black;
     border-radius: 50px;
+    transition: background-color 4s ease 0.2s;
 }
 
 nav:hover {
   	color: green;
     background-color: green;
+    transition: 4s ease 0.2s;
 }
 
 p:hover {
     background-color: red;
     color: green;
+    
 }
 
 img {
@@ -52,6 +57,12 @@ img {
     display: block;
     margin: auto;
     width: 50%;
+    transition: width 4s ease 0.2s, height 4s ease 0.2s;
+}
+
+img:hover {
+    width: 300px;
+    height: 150px;
 }
 
 
@@ -63,6 +74,7 @@ p {
     border: 10px solid black;
     border-radius: 50px;
     text-align: center; 
+    transition: 4s ease 0.2s;
 }
 
 h2 {
